@@ -1,3 +1,4 @@
+You can find a video explaining the project on youtube at https://youtu.be/wx4VOGopnVw
 
 README: Creating and Using a Reactive Architecture Template for Robobo Robot
 
